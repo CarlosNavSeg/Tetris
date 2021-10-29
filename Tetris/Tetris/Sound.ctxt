@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Sound
+comment1.params=fileName
+comment1.target=Sound(java.lang.String)
+comment1.text=\r\n\ This\ is\ a\ constructor\ that\ creates\ the\ object\ Sound\ based\ on\ the\ route\ that\ is\ given\ as\r\n\ a\ parameter\ through\ a\ String\r\n\r\n\ @param\ fileName\ String\ that\ indicates\ the\ route\ of\ the\ audio\ file\ we\ want\ to\ add.\r\n
+comment2.params=
+comment2.target=void\ play()
+comment2.text=\r\n\ Instance\ method\ of\ type\ void\ that\ plays\ once\ the\ track\ included\ in\ the\ object\ Sound\ which\r\n\ has\ been\ called.\r\n
+comment3.params=
+comment3.target=void\ run()
+comment4.params=
+comment4.target=void\ stop()
+comment4.text=\r\n\ Instance\ method\ of\ type\ void\ that\ stops\ the\ track\ included\ in\ the\ object\ Sound\ which\r\n\ has\ been\ called\ if\ it\ is\ being\ played.\r\n
+comment5.params=
+comment5.target=void\ loop()
+comment5.text=\r\n\ Instance\ method\ of\ type\ void\ that\ plays\ the\ track\ in\ a\ loop\ until\ the\ Sound.stop()\ method\r\n\ is\ called.\r\n
+comment6.params=
+comment6.target=void\ run()
+comment7.params=
+comment7.target=boolean\ isActive()
+comment7.text=\r\n\ Instance\ method\ of\ type\ boolean\ that\ checks\ if\ the\ object\ Sound\ that\ called\ the\ method\ is\r\n\ playing\ or\ not\r\n\ @return\ true\ if\ that\ sound\ is\ being\ played,\ false\ if\ it\ isn't.\r\n
+numComments=8

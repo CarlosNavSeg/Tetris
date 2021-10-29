@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Board
+comment1.params=
+comment1.target=Board()
+comment2.params=l
+comment2.target=int\ indexOfFilledLine(int)
+comment3.params=line
+comment3.target=void\ deleteLine(int)
+comment4.params=
+comment4.target=int\ deleteFilledLines()
+comment5.params=P
+comment5.target=boolean\ checkForCollision(Piece)
+comment6.params=P
+comment6.target=void\ fixToGrid(Piece)
+comment7.params=g
+comment7.target=void\ draw(java.awt.Graphics)
+numComments=8
